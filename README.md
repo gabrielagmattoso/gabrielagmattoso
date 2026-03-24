@@ -1,6 +1,6 @@
 -----
 
-![banner](imagensteste/github-header-banner (1).png)  
+![banner](imagensteste/githubbanner)  
 
 -----  
 
