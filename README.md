@@ -70,7 +70,7 @@
 
 
 -----
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=gabrielagmattoso=blueviolet"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=gabrielagmattoso&color=blueviolet"/>
 
 -----
 
