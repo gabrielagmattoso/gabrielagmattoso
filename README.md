@@ -22,11 +22,11 @@
 <td valign="top">
 
 <ul>
-<li>Como foi falado, me chamo Gabriela Gomes Mattoso e sou graduanda de Ciência de Dados na PUC minas. Estou no início do primeiro período e espero poder crescer na área e torna-me uma boa profissional. </li>
+<li>Como foi falado, sou a Gabriela Gomes Mattoso e sou graduanda de Ciência de Dados na PUC minas. Estou no início do primeiro período e espero poder crescer na área e torna-me uma boa profissional. </li>
 
-<li>Aqui no meu GitHub você vai encontrar projetos e estudos que fazem parte da minha jornada na área de dados. Muitos deles surgem de curiosidade, de desafios da faculdade ou de ideias que tive vontade de testar na prática. Para mim, programar e trabalhar com dados também é uma forma de aprender constantemente e construir coisas novas.</li>
+<li>No meu perfil no GitHub, é possível encontrar projetos e estudos que compõem minha trajetória na área de ciência de dados. Muitos deles surgem a partir de curiosidade intelectual, desafios acadêmicos ou de ideias que busquei explorar na prática. Para mim, programar e trabalhar com dados representa uma oportunidade contínua de aprendizado e de desenvolvimento de soluções inovadoras.</li>
 
-<li>Meus hobbies são: jogos, leitura, receitas e moda.</li>
+<li>Meus hobbies: 🎮 Jogos | 📚 Leitura | 🍳 Receitas | 👗 Moda</li>
 
 <li>Cinemáticamente falando, gosto de "The Walking Dead", "Interestelar" e "The Hunger Games".</li>
 
