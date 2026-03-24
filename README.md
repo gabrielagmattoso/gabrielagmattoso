@@ -55,15 +55,15 @@
 
 <p>
   <a href="https://www.python.org/" target="_blank">
-    <img src="imagensteste/python.png" width="32" height="32" alt="Python" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt1YnNlamlkd284aGF2bDBreHF4M2E0Y2RsMm0xNW5uYXByNGZhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="32" height="32" alt="Python" />
   </a>
   &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="imagensteste/vs.png" width="32" height="32" alt="VS Code" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pncndkZWk5a2o3bHZtMmxud3V5aXlmOW9vNzlxY3pzNHhqY3piZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="32" height="32" alt="VS Code" />
   </a>
   &nbsp;
   <a href="https://www.notion.so/" target="_blank">
-    <img src="imagensteste/notion.png" width="32" height="32" alt="Notion" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcwemp1ZXdhempqNXA4dGg2OGppY3RrNHg4bGlmeGY1cGV5azRyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XVMfJzJYddTxvQgl4H/giphy.gif" width="32" height="32" alt="Notion" />
   </a>
 </p>
 
