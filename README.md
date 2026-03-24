@@ -48,19 +48,24 @@
 </table>
 
 -----
-<img src="imgs/skills.gif" height="20" alt="skills"/> Linguagens e ferramentas:
+<p>
+  <img src="imgs/skills.gif" height="20" alt="skills" style="vertical-align: middle;"/> 
+  <strong>Linguagens e ferramentas:</strong>
+</p>
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="imgs/python.png" width="32" height="32" alt="Python" />
-</a>
-&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="imgs/vs.png" width="32" height="32" alt="VS Code" />
-</a>
-&nbsp;
-<a href="https://www.notion.so/" target="_blank">
-  <img src="imgs/notion.png" width="32" height="32" alt="Notion" />
-</a>
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="imagensteste/python.png" width="32" height="32" alt="Python" />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="imagensteste/vs.png" width="32" height="32" alt="VS Code" />
+  </a>
+  &nbsp;
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="imagensteste/notion.png" width="32" height="32" alt="Notion" />
+  </a>
+</p>
 
 
 -----
