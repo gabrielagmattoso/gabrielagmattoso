@@ -33,9 +33,10 @@
 <li>Adoro ser acolhedora e conversar com as pessoas! 💙</li>
 
 <li>📬 Se quiser conversar ou colaborar, você pode me encontrar pelo 
-<a href="mailto:gabrielagmattoso@gmail.com">e-mail profissional</a>.</li>
-</ul>
-
+  <a href="mailto:gabrielagmattoso@gmail.com">e-mail profissional</a> 
+  ou no 
+  <a href="https://www.linkedin.com/in/gabriela-gomes-mattoso-576a3b3b5/" target="_blank">LinkedIn</a>.
+</li>
 </td>
 
 <td width="40%" align="center" valign="middle">
