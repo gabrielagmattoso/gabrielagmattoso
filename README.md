@@ -22,21 +22,18 @@
 <td valign="top">
 
 <ul>
-<li>Como supracitado, me chamo Ana Lorens e sou graduanda no curso de Ciências de Dados e IA na renomada PUC MINAS.</li>
+<li>Como foi falado, me chamo Gabriela Gomes Mattoso e sou graduanda de Ciência de Dados na PUC minas. Estou no início do primeiro período e espero poder crescer na área e torna-me uma boa profissional. </li>
 
-<li>Aqui no meu GitHub você vai encontrar projetos, experimentos e estudos que fazem parte da minha jornada na área de dados. Muitos deles surgem de curiosidade, de desafios da faculdade ou de ideias que tive vontade de testar na prática. Para mim, programar e trabalhar com dados também é uma forma de aprender constantemente e construir coisas novas.</li>
+<li>Aqui no meu GitHub você vai encontrar projetos e estudos que fazem parte da minha jornada na área de dados. Muitos deles surgem de curiosidade, de desafios da faculdade ou de ideias que tive vontade de testar na prática. Para mim, programar e trabalhar com dados também é uma forma de aprender constantemente e construir coisas novas.</li>
 
-<li>Além da parte técnica, também gosto muito de contribuir com a comunidade acadêmica. Atualmente sou coordenadora do Programa de Apadrinhamento do curso, uma iniciativa voltada para acolher e orientar estudantes que estão começando a graduação.</li>
+<li>Meus hobbies são: jogos, leitura, receitas e moda.</li>
 
-<li>Meus hobbies são leitura 📚, jogos 🎮, cozinhar 🍪 e assistir a podcasts de true crime 🧐.</li>
+<li>Cinemáticamente falando, gosto de "The Walking Dead", "Interestelar" e "The Hunger Games".</li>
 
-<li>Cinemáticamente falando, gosto de "Piratas do Caribe", "Percy Jackson" e "HunterxHunter".</li>
-
-<li>Adoro ajudar as pessoas! 💙</li>
+<li>Adoro ser acolhedora e conversar com as pessoas! 💙</li>
 
 <li>📬 Se quiser conversar ou colaborar, você pode me encontrar pelo 
-<a href="mailto:anacslorens1201@gmail.com">e-mail pessoal</a> ou 
-<a href="mailto:analorensdev@gmail.com">e-mail profissional</a>.</li>
+<a href="mailto:gabrielagmattoso@gmail.com">e-mail profissional</a>.</li>
 </ul>
 
 </td>
