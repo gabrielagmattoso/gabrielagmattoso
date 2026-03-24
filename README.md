@@ -28,7 +28,8 @@
 
 <li>Meus hobbies: 🎮 Jogos | 📚 Leitura | 🍳 Receitas | 👗 Moda</li>
 
-<li>Cinemáticamente falando, gosto de "The Walking Dead", "Interestelar" e "The Hunger Games".</li>
+<li>🎬 Cinematográficamente, meus favoritos são:
+🧟‍♂️ The Walking Dead | 🌌 Interestelar | 🏹 The Hunger Games.</li>
 
 <li>Adoro ser acolhedora e conversar com as pessoas! 💙</li>
 
