@@ -1,84 +1,83 @@
------
+<div align="center">
 
-![banner](imagensteste/githubbanner)  
+<img src="imagensteste/githubbanner" alt="banner" width="100%"/>
 
------  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=840C64&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela!;Estudante+de+Ci%C3%AAncia+de+Dados;Sempre+aprendendo+algo+novo+%F0%9F%92%9C" alt="Typing SVG" />
 
-
------
-
-
-<div>
-   <details>
-   </summary>
-     <summary><img height="20" alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/kyubey.gif"/> Sobre mim:</summary>
-    </summary>
-  </details>
 </div>
+
+<br>
+
+<details open>
+<summary><img height="20" alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/kyubey.gif"/> &nbsp;<strong>Sobre mim</strong></summary>
+<br>
 
 <table>
 <tr>
+<td valign="top" width="60%">
 
-<td valign="top">
+- 🎓 Sou a **Gabriela Gomes Mattoso**, graduanda em **Ciência de Dados** pela **PUC Minas**. Estou no segundo período e espero crescer na área até me tornar uma ótima profissional.
+- 💻 No meu perfil do GitHub você encontra projetos e estudos que compõem minha trajetória em ciência de dados — muitos nascidos de curiosidade intelectual, desafios acadêmicos ou ideias que quis explorar na prática.
+- 🚀 Para mim, programar e trabalhar com dados é uma oportunidade contínua de aprendizado e de criação de soluções inovadoras.
+- 🎯 **Hobbies:** 🎮 Jogos · 📚 Leitura · 🍳 Receitas · 👗 Moda
+- 🎬 **Favoritos:** 🧟‍♂️ The Walking Dead · 🌌 Interestelar · 🏹 The Hunger Games
+- 💙 Adoro ser acolhedora e trocar ideia com as pessoas!
 
-<ul>
-<li>Como foi falado, sou a Gabriela Gomes Mattoso e sou graduanda de Ciência de Dados na PUC minas. Estou no início do primeiro período e espero poder crescer na área e torna-me uma boa profissional. </li>
-
-<li>No meu perfil no GitHub, é possível encontrar projetos e estudos que compõem minha trajetória na área de ciência de dados. Muitos deles surgem a partir de curiosidade intelectual, desafios acadêmicos ou de ideias que busquei explorar na prática. Para mim, programar e trabalhar com dados representa uma oportunidade contínua de aprendizado e de desenvolvimento de soluções inovadoras.</li>
-
-<li>Meus hobbies: 🎮 Jogos | 📚 Leitura | 🍳 Receitas | 👗 Moda</li>
-
-<li>🎬 Cinematográficamente, meus favoritos são:
-🧟‍♂️ The Walking Dead | 🌌 Interestelar | 🏹 The Hunger Games.</li>
-
-<li>Adoro ser acolhedora e conversar com as pessoas! 💙</li>
-
-<li>📬 Se quiser conversar ou colaborar, você pode me encontrar pelo 
-  <a href="mailto:gabrielagmattoso@gmail.com">e-mail profissional</a> 
-  ou no 
-  <a href="https://www.linkedin.com/in/gabriela-gomes-mattoso-576a3b3b5/" target="_blank">LinkedIn</a>.
-</li>
 </td>
-
 <td width="40%" align="center" valign="middle">
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG94M3ljdG5iZDRocnkxb3A5dzFqemFxbWxueWgzdzRidW1lYmowMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif" width="100%"/>
-
 </td>
-
 </tr>
 </table>
 
------
-<p>
-  <img src="imgs/skills.gif" height="20" alt="skills" style="vertical-align: middle;"/> 
-  <strong>Linguagens e ferramentas:</strong>
-</p>
+</details>
 
-<p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt1YnNlamlkd284aGF2bDBreHF4M2E0Y2RsMm0xNW5uYXByNGZhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="32" height="32" alt="Python" />
+<br>
+
+### 📬 Onde me encontrar
+
+<p align="left">
+  <a href="mailto:gabrielagmattoso@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pncndkZWk5a2o3bHZtMmxud3V5aXlmOW9vNzlxY3pzNHhqY3piZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="32" height="32" alt="VS Code" />
+  <a href="https://www.linkedin.com/in/gabriela-gomes-mattoso-576a3b3b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcwemp1ZXdhempqNXA4dGg2OGppY3RrNHg4bGlmeGY1cGV5azRyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XVMfJzJYddTxvQgl4H/giphy.gif" width="32" height="32" alt="Notion" />
+  <a href="https://www.instagram.com/gabriela.g.m__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
+<br>
 
------
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=gabrielagmattoso&color=blueviolet"/>
+### 🛠️ Linguagens e ferramentas
 
------
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
 
+<br>
 
------  
------>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=840c64&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+### 👾 Pac-Man comendo minhas contribuições
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/gabrielagmattoso/gabrielagmattoso/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=840c64&height=120&section=footer"/>
+<br>
+
+<div align="center">
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=gabrielagmattoso&color=840c64&style=for-the-badge"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=840c64&width=435&lines=%2F%2FFoi+um+prazer+ter+voc%C3%AA+por+aqui!;%2F%2FVolte+sempre!" alt="Typing SVG" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=840c64&height=120&section=footer"/>
