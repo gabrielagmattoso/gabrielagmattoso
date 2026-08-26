@@ -21,9 +21,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           # 'pacman' é o jogo que come as contribuições
           games: 'pacman'
-          # tema claro/escuro adaptativo ao GitHub
-          gameTheme: 'github'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          player_style: 'opportunistic'
